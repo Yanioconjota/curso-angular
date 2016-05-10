@@ -1,0 +1,13 @@
+{
+  "name": "curso-angular",
+  "authors": [
+    "Yanioconjota <janioisacura@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "1.4"
+  }
+}
